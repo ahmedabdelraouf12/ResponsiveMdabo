@@ -166,7 +166,7 @@ header {
         letter-spacing: -1px;
         margin-bottom: 16px;
         color: var(--colors-blue-950, #242d52);
-        @media screen and (min-width: 0) and (max-width: 375px) {
+        @media screen and (min-width: 0) and (max-width: 778px) {
           font-style: Bold;
           line-height: 110.00000000000001%;
           letter-spacing: -0.75px;
@@ -185,7 +185,7 @@ header {
         max-width: 96%;
         /* text-align: justify; */
         padding-right: 7rem;
-        @media screen and (min-width: 0) and (max-width: 375px) {
+        @media screen and (min-width: 0) and (max-width: 778px) {
           width: 323px;
 
           padding: 1rem;
@@ -256,7 +256,7 @@ header {
           align-items: center;
           border-radius: 4px;
           background: var(--colors-white, #ffffff);
-          @media screen and (min-width: 0) and (max-width: 375px) {
+          @media screen and (min-width: 0) and (max-width: 778px) {
             width: clamp(129px, 140px, 260px);
             height: 150px;
             left: 2.5px;
@@ -266,7 +266,7 @@ header {
           img {
             width: 230.2857208251953px;
             height: 202.58621215820312px;
-            @media screen and (min-width: 0) and (max-width: 375px) {
+            @media screen and (min-width: 0) and (max-width: 778px) {
               width: 118.285721px;
               height: 120.586212px;
               top: 9.59px;
@@ -285,7 +285,7 @@ header {
           border-radius: 4px;
           background: var(--colors-white, #ffffff);
           box-shadow: 0px 10px 20px 0px #50566208;
-          @media screen and (min-width: 0) and (max-width: 375px) {
+          @media screen and (min-width: 0) and (max-width: 778px) {
             width: 153px;
             height: 139px;
             left: 167.5px;
@@ -298,7 +298,7 @@ header {
             height: 163px;
             top: 36px;
             left: 899px;
-            @media screen and (min-width: 0) and (max-width: 375px) {
+            @media screen and (min-width: 0) and (max-width: 778px) {
               width: 110.376633px;
               height: 105px;
               top: 21.57px;
@@ -342,7 +342,7 @@ header {
           line-height: 110.00000000000001%;
           letter-spacing: -0.75px;
           color: var(--colors-blue-950, #242d52);
-          @media screen and (min-width: 0) and (max-width: 375px) {
+          @media screen and (min-width: 0) and (max-width: 778px) {
             width: clamp(332px, 350px, 445px); /* max-width:  80%; */
             /* height: 96px; */
 
@@ -365,7 +365,7 @@ header {
           /* height: 78px; */
           color: var(--colors-blue-950, #242d52);
           text-align: justify;
-          @media screen and (min-width: 0) and (max-width: 375px) {
+          @media screen and (min-width: 0) and (max-width: 778px) {
             font-weight: 400;
             font-style: Regular;
             font-size: clamp(10px, 12px, 13px);
@@ -406,7 +406,7 @@ header {
               width: clamp(235px, 288px, 292px);
               line-height: 145%;
               letter-spacing: 0px;
-              @media screen and (min-width: 0) and (max-width: 375px) {
+              @media screen and (min-width: 0) and (max-width: 778px) {
                 padding: 5px;
 
                 color: var(--colors-blue-950, #242d52);
@@ -429,7 +429,7 @@ header {
             line-height: 163%;
             letter-spacing: 0px;
             padding-left: 88px;
-            @media screen and (min-width: 0) and (max-width: 375px) {
+            @media screen and (min-width: 0) and (max-width: 778px) {
               color: var(--colors-blue-950, #242d52);
               font-weight: 400;
               font-style: Regular;
@@ -474,7 +474,7 @@ header {
             line-height: 163%;
             letter-spacing: 0px;
             padding-left: 88px;
-            @media screen and (min-width: 0) and (max-width: 375px) {
+            @media screen and (min-width: 0) and (max-width: 778px) {
               color: var(--colors-blue-950, #242d52);
               font-weight: 400;
               font-style: Regular;
@@ -519,7 +519,7 @@ header {
             line-height: 163%;
             letter-spacing: 0px;
             padding-left: 88px;
-            @media screen and (min-width: 0) and (max-width: 375px) {
+            @media screen and (min-width: 0) and (max-width: 778px) {
               color: var(--colors-blue-950, #242d52);
               font-weight: 400;
               font-style: Regular;
